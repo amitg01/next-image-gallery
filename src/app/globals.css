@@ -30,10 +30,6 @@ body {
     rgb(var(--background-start-rgb));
 }
 
-a {
-  color: inherit;
-}
-
 img {
   background-color: lightblue;
 }
