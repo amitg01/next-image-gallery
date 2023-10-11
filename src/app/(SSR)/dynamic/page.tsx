@@ -30,7 +30,7 @@ export default async function Page() {
         className="rounded shadow mw-100"
       />
       by{" "}
-      <Link href={`/user/${image.user.username}`}>{image.user.username}</Link>
+      <Link href={`/users/${image.user.username}`}>{image.user.username}</Link>
     </div>
   );
 }
